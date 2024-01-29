@@ -1,7 +1,8 @@
 form{
-background-color: rgb(187, 100, 237)
+background-color: rgb(229, 202, 245);
+width:200px;
 }
 
 body{
-   background-color: darkcyan; color: rgb(211, 26, 228);
+   background-color: rgb(159, 241, 241); color: rgba(68, 91, 126, 0.534);
 }
